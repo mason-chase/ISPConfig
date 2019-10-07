@@ -2,3 +2,4 @@
 /nbproject/private/
 .phplint-cache
 /.idea/
+/server/lib/mysql_clientdb.conf
